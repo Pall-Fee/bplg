@@ -5,7 +5,7 @@ The Goals for this device is to create a wireless vibrational butt plug that is
 - cost effective & accessible
 - supports [buttplug.io](https://buttplug.io/) 
 - comfortable
-**- safe!**
+- **safe!**
 
 We also aim to achieve a device that is
 - easy to assemble
@@ -13,9 +13,8 @@ We also aim to achieve a device that is
 - powerful
 - versatile
 - responsive
-
-Design of the butt plug is broken down to:  
+ 
 Design of the butt plug is broken down to:
-- Kikad Files (PCBA)
+- KiCad Files (PCBA)
 - Freecad Files (TOPA)
 
